@@ -4,7 +4,29 @@
     align-items: flex-start;
 }
 
+.header2{
+    display: flex;
+    padding: 120px;
+}
+
+.text{
+    display: flex;
+    flex-direction:column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.text1{
+    font-size:48px;
+    font-weight: 800;
+}
+.text2{
+    font-size: 18px;
+}
 ul{
+    gap: 16px;
+    padding: 0;
     list-style: none;
     display: flex;
 }
