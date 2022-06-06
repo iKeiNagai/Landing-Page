@@ -44,7 +44,15 @@
     padding: 50px;
 }
 
+.third{
 
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
 
 button{
     background-color: #3882f6;
