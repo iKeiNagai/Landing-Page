@@ -45,13 +45,19 @@
 }
 
 .third{
-
+    padding: 150px;
+    background-color: #e5e7eb;
 }
 
 .quote{
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+}
+.author{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
 }
 
 button{
