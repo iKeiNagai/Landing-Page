@@ -28,15 +28,21 @@
 
 .second{
     background-color: rgb(117, 120, 141);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .title{
+    background-color: rgb(117, 120, 141);
     text-align: center;
     font-size:36px ;
     font-weight: 800;
     color: white;
     padding: 50px;
 }
+
+
 
 button{
     background-color: #3882f6;
