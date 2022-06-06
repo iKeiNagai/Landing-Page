@@ -26,6 +26,18 @@
     margin-top: 10px;
 }
 
+.second{
+    background-color: rgb(117, 120, 141);
+}
+
+.title{
+    text-align: center;
+    font-size:36px ;
+    font-weight: 800;
+    color: white;
+    padding: 50px;
+}
+
 button{
     background-color: #3882f6;
     font-weight: bold;
@@ -42,3 +54,4 @@ ul{
     display: flex;
     font-size: 18px;
 }
+
