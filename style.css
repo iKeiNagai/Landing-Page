@@ -60,6 +60,17 @@
     text-align: right;
 }
 
+.fourth{
+    padding:150px;
+}
+.bottom-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgreen;
+}
+
+
 button{
     background-color: #3882f6;
     font-weight: bold;
