@@ -80,6 +80,17 @@
     color:#f9faf8;
 }
 
+.footer{
+    background-color: rgb(117, 120, 141);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.footer img{
+    height: auto;
+    width: 25px;
+}
 button{
     background-color: #3882f6;
     font-weight: bold;
@@ -97,3 +108,7 @@ ul{
     font-size: 18px;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+}
