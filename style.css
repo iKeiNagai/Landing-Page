@@ -2,6 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    background-color: rgb(117, 120, 141);
+    color:#f9faf8;
 }
 
 .header2{
