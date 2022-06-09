@@ -4,6 +4,7 @@
     align-items: flex-start;
     background-color: rgb(117, 120, 141);
     color:#f9faf8;
+    padding: 10px 20px;
 }
 
 .header2{
@@ -104,13 +105,20 @@ button{
     color:#f9faf8 ;
 }
 
+a{
+    text-decoration: none;
+    color:#f9faf8;
+}
+
 ul{
     gap: 16px;
     padding: 0;
     list-style: none;
     display: flex;
     font-size: 18px;
+    
 }
+
 
 body{
     display: flex;
