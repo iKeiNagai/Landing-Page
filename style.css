@@ -76,13 +76,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding:150px;
+    padding:80px 150px;
 }
 .bottom-box{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(63, 82, 63);
+    background-color: rgb(99, 96, 96);
     padding: 50px;
     border-radius: 10px;
 }
